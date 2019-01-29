@@ -1,1 +1,5 @@
-Conflict file 10
+int age=79;
+int age=86;
+if(age>3){
+print("Git")
+}
