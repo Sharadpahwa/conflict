@@ -1,5 +1,5 @@
-int age=172878;
-int age=18600;
+int age=17414;
+int age=122;
 if(age>3){
-print("Git")
+print("Sad")
 }
